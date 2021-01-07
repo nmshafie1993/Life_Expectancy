@@ -42,6 +42,7 @@ Let's briefly review our findings from exploratory data analysis:<br>
 4. We also detect outliers... <br>
 <img src="https://github.com/nmshafie1993/Life_Expectancy/blob/master/images/3.png"> <br>
 5. We were able to model our data using linear regression. Here is our result:
-<img src="https://github.com/nmshafie1993/Life_Expectancy/blob/master/images/Capture.PNG">
+<img src="https://github.com/nmshafie1993/Life_Expectancy/blob/master/images/Capture.PNG"> <br>
+
 ## Conclusion
 Looking at R-quared and Adj. R-squared, seems that our model is doing very good. (R-squared: 0.964), (Adj. R-squared:0.962) The model converted each of dummy variables to a independent variables and showed the p-value. Here, any p-value less than 0.05 means that it is significant to our model. There are some values such BMI and Diphtheria have relatively high p-values which means they are not significant to our mdoel. Although the number of variables increased due to having dummy variables, the number of variables is still very less than number of observations. Therefore, using Ridge Regression for regularization would not be very useful. However, probably using lasso regression or elastic net regression would give us even better result. However our current result is very good in its current shape.

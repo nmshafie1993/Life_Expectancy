@@ -1,6 +1,7 @@
 # Statistical Analysis on factors influencing Life Expectancy
 ## Project Goal
 In this project, we are investigating the factors that are impacting the life expectency in 193 countries. We aim to develope a model that can predict the life expectancy using linear regression.  
+<img src="https://github.com/nmshafie1993/World_Survey/blob/main/images/1.png" width="700" height="400">
 ## Data Source:
 This dataset has been obtained from the Kaggle Website : https://www.kaggle.com/kumarajarshi/life-expectancy-who <br>
 Note from the Kaggle Website : The data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang.<br>

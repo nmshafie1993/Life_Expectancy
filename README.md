@@ -32,5 +32,13 @@ The project relies on accuracy of data. The Global Health Observatory (GHO) data
 |Income composition of resources|Income composition of resources|
 |Schooling|Number of years of Schooling(years)|
 ## Results
-
+Let's briefly review our findings from exploratory data analysis:<br>
+1. One of the most important finding is that in general life expectancy is increasing.
+<img src="https://github.com/nmshafie1993/Life_Expectancy/blob/master/images/5.png">
+2. Below image shows the correlation between the factors that are influencing the life expectancy:<br>
+<img src="https://github.com/nmshafie1993/Life_Expectancy/blob/master/images/4.png">
+3. To have a better understanding, Let's see the distribution of our column variables. <br>
+<img src="https://github.com/nmshafie1993/Life_Expectancy/blob/master/images/2.png">
+4. We also detect outliers... <br>
+<img src="https://github.com/nmshafie1993/Life_Expectancy/blob/master/images/3.png">
 ## Conclusion
